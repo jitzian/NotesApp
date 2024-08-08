@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ToyotaApp</string>
+    <string name="app_name">Tasks App</string>
+    <string name="loading_label">Loading…</string>
+    <string name="back_TEXT">Back</string>
 </resources>
