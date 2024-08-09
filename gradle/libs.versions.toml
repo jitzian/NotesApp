@@ -31,6 +31,7 @@ retrofitConverterGson = "2.9.0"
 roomCompiler = "2.5.1"
 roomKtx = "2.5.1"
 roomRuntime = "2.5.1"
+material3Android = "1.2.1"
 
 [libraries]
 androidx-activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "activityCompose" }
