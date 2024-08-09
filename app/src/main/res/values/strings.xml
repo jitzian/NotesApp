@@ -2,4 +2,8 @@
     <string name="app_name">Tasks App</string>
     <string name="loading_label">Loading…</string>
     <string name="back_TEXT">Back</string>
+    <string name="add_task_TEXT">Add Task</string>
+    <string name="title_TEXT">Title</string>
+    <string name="content_TEXT">Content</string>
+    <string name="save_TEXT">Save</string>
 </resources>
